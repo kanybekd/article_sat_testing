@@ -11,7 +11,7 @@ function MenuBar() {
 
                 >
                     <Link to='/'>
-                        Home
+                        Homes
                     </Link>
                 </NavLink>
             </NavItem>
